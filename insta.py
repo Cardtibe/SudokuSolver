@@ -114,3 +114,4 @@ while 0 in gbr:
             break
 #gbr listesini yazdırır
 yaz(gbr)
+sda=input("")
