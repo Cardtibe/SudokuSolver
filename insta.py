@@ -114,4 +114,3 @@ while 0 in gbr:
             break
 #gbr listesini yazdırır
 yaz(gbr)
-sss=input("")
